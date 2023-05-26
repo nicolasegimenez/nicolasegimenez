@@ -13,12 +13,6 @@
     
 </div>
   <img src="https://komarev.com/ghpvc/?username=nicolasegimenez&style=flat-square&color=blue" alt=""/>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nicolasegimenez&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasegimenez&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </div>
 
 
