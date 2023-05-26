@@ -4,12 +4,9 @@
   <a href="linkedin.com/nicolasegimenez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="#">
+    <a href="t.me/Nico_Gimenez">
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
     
 </div>
   <img src="https://komarev.com/ghpvc/?username=nicolasegimenez&style=flat-square&color=blue" alt=""/>
