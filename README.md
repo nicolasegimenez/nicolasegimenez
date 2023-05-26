@@ -4,7 +4,7 @@
   <a href="linkedin.com/nicolasegimenez">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="t.me/Nico_Gimenez">
+    <a href="https://t.me/Nico_Gimenez">
    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     
